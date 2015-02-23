@@ -1,0 +1,4 @@
+This is for a lightning talk at COSI
+There are three "quiz" questions with their answers - the goal is to say what the type of foo is in each chase.
+There is also a demo.c to prove it all compiles and runs.
+
